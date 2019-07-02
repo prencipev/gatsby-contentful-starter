@@ -52,7 +52,7 @@ class Template extends React.Component {
               </svg>
               <div className="container">
                 <div className="carousel-caption text-left">
-                  <h1>Example headline.</h1>
+                  <h1>Tipo headline.</h1>
                   <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at
                     eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
                   <p><a className="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
