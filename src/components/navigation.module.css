@@ -16,5 +16,6 @@
 }
 
 .navigationItem a {
-  color: currentColor;
+  color: #fff!important;
 }
+.nav-item a {color:#fff}
